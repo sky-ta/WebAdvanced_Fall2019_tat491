@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+
+.boxes{
+    width: calc(100%/3);
+    height: 20vw;
+    /* background-color: black; */
+    float: left;
+
+}
+
+#box1{ /* this is for id*/
+    background-color: gold;
+}
+
+#box2{ /* this is for id*/
+    background-color: yellowgreen;
+}
+
+#box3{/* this is for id*/
+    background-color: red;
+    }
